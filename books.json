@@ -1,0 +1,145 @@
+[   {
+        "name":"Willie Aucourte",
+        "rating":1,
+        "books":{"title":"Presto"},
+        "booksId":10001,
+        "authorId":"4ab4ae6a-2d07-401d-9d5a-9db18ce9340f" 
+    },
+    {
+        "name":"Town Hanbridge",
+        "rating":10,
+        "books":{"title":"The Butterfly Effect 2"},
+        "booksId":10002,
+        "authorId":"2fb330ae-e9f2-4391-b53f-235626a41ae0"
+    },
+    {
+        "name":"Rodd Lottrington",
+        "rating":6,
+        "books":{"title":"Ruins, The"},
+        "booksId":10003,
+        "authorId":"e265038d-871e-41ce-b3ff-fb26d328ce0f"
+    },
+    {
+        "name":"Leontine Charette",
+        "rating":6,
+        "books":{"title":"Bandwagon"},
+        "booksId":10004,
+        "authorId":"0bce074b-6cd6-445b-a8d1-edd24523a96f"
+    },
+    {   
+        "name":"Traver Wapplington",
+        "rating":4,
+        "books":{"title":"Crimes Against Humanity"},
+        "booksId":10005,
+        "authorId":"aa28ec1f-3e3f-4633-a3f1-8ede49724d0f"
+    },
+    {   "name":"Nikki Lampert",
+        "rating":8,
+        "books":{"title":"Curse of the Golden Flower (Man cheng jin dai huang jin jia)"},
+        "booksId":10006,
+        "authorId":"7b4c0f01-89d8-4364-ba5f-899702cdf5ba"
+    },
+    {
+        "name":"Courtenay Emig",
+        "rating":3,
+        "books":{"title":"Abbott and Costello Meet the Keystone Kops"},
+        "booksId":10007,
+        "authorId":"2efa5f93-b016-4341-aaa3-f0d41ac030d8"
+    },
+    {
+        "name":"Katherine Thornthwaite",
+        "rating":3,
+        "books":{"title":"Cheyenne Social Club, The"},
+        "booksId":10008,
+        "authorId":"c2eb720f-ae57-46c6-a0ee-5bc3a7461300"
+    },
+    {   "name":"Nannette Wickens",
+        "rating":2,
+        "books":{"title":"Trespasser, The"},
+        "booksId":10009,
+        "authorId":"796d5fb0-9f56-426f-a05f-c1c8815c1d00"
+    },
+    {
+        "name":"Nixie Butcher",
+        "rating":1,
+        "books":{"title":"Karan Arjun"},
+        "booksId":10009,
+        "authorId":"16bd9dec-d7ca-448c-822b-0d68d9a97044"
+    },
+    {
+        "name":"Tawnya Wasselin",
+        "rating":1,
+        "books":{"title":"My Way Home (Így jöttem) "},
+        "booksId":10010,
+        "authorId":"0ffb5863-c99b-43cf-b5ed-4db3c0e2edcd"
+    },
+    {
+        "name":"Florenza Phayre",
+        "rating":4,
+        "books":{"title":"Coup de torchon (Clean Slate)"},
+        "booksId":10011,
+        "authorId":"d1970bbd-0472-47a3-ae58-2b0384719f97"
+    },
+    {
+        "name":"Marsh Fries",
+        "rating":3,
+        "books":{"title":"Garbage Warrior"},
+        "booksId":10012,
+        "authorId":"f375642c-1776-4944-9c5a-e6d6733f6816"
+    },
+    {
+        "name":"Roderic Itzakovitz",
+        "rating":5,
+        "books":{"title":"I Remember Mama"},
+        "booksId":10013,
+        "authorId":"045f308d-081a-4799-85a1-ecc738b3a39c"
+    },
+    {
+        "name":"Steffane Jaeggi",
+        "rating":5,
+        "books":{"title":"Big Red One, The"},
+        "booksId":10014,
+        "authorId":"90f6e4f0-64ee-4a52-acd1-9cf2fa612e07"
+    },
+    {
+        "name":"Elise Cossum",
+        "rating":9,
+        "books":{"title":"Still Life"},
+        "booksId":10015,
+        "authorId":"17bc62c6-f9a7-4ddc-8c6c-0e67eb8616b5"
+    },
+    {   "name":"Chancey Camlin",
+        "rating":7,
+        "books":{"title":"Mother (Mat)"},
+        "booksId":10016,
+        "authorId":"b0124f00-035a-4ac0-a1ba-9abaf066f801"
+    },
+    {   
+        "name":"Giselle Aizkovitch",
+        "rating":9,
+        "books":{"title":"Nurse 3D"},
+        "booksId":10017,
+        "authorId":"efe414d1-43c1-4ca3-8766-2273a95f1b48"
+    },
+    {
+        "name":"Jens Valde",
+        "rating":8,
+        "books":{"title":"Endless Summer 2, The"},
+        "booksId":10018,
+        "authorId":"d93407c6-2157-4730-af6f-2c5ae918d1d2"
+    },
+    {
+        "name":"Angeli Truesdale",
+        "rating":5,
+        "books":{"title":"Heartless"},
+        "booksId":10019,
+        "authorId":"5e03cac2-50d4-46c7-88f9-69704bd4a7a6"
+    },
+    {
+        "name":"Eirena Petschel",
+        "rating":1,
+        "books":{"title":"Machine Gun McCain (Gli intoccabili)"},
+        "booksId":10020,
+        "authorId":"dda27939-6c1d-4623-a2ea-d888a3278a91"
+    }
+]
